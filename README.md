@@ -40,14 +40,14 @@
 
 ### Hermes
 
-1. 下载 Release 的 `multitask-nitro-0.2.0.tgz` 并解压
+1. 下载 Release 的 `multitask-nitro-1.0.0.tgz` 并解压
 2. 把 `multitask-nitro` 目录放入 Hermes 的 skills 目录（`$HERMES_HOME/skills/`）
 3. 新开会话，批量任务自动触发
 
 ### DSH
 
 - 桌面版：插件面板 → 添加插件 → 粘贴 `https://github.com/wo-yu-qiu-de-dao-ni/multitask-nitro`
-- CLI：下载 Release 的 `dsh-multitask-nitro-0.2.0.tgz` → `dsh plugin --profile web add ./dsh-multitask-nitro-0.2.0.tgz`
+- CLI：下载 Release 的 `dsh-multitask-nitro-1.0.0.tgz` → `dsh plugin --profile web add ./dsh-multitask-nitro-1.0.0.tgz`
 - 注入档位：`config.level: full | mini`（cordis.patch.yml 或 profile 层覆盖）
 
 ## 版本
