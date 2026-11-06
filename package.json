@@ -1,6 +1,6 @@
 {
   "name": "dsh-multitask-nitro",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "多任务氮气：通用批量并发调度规则（DSH cordis bundle）。判断是否值得并发、选择执行载体、控制资源与限流、处理失败与恢复、验证任务真正完成。",
   "type": "module",
   "main": "./lib/index.js",
